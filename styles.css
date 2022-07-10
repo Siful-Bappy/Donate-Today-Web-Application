@@ -43,7 +43,7 @@
     /* justify-content: center;
     align-self: center; */
     font-weight: bold;
-    margin-left: 15rem;
+    margin-left: 17rem;
     padding: 50px 20px;
     width: 50%;
     text-align: center;
@@ -80,4 +80,24 @@
 }
 .our-donate-plan-container .our-donate-plan-three{
     background-color: rgb(222, 227, 189);
+}
+
+.Contribute-container{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 100px;
+}
+.Contribute-container .contribute-section{
+    
+    width: 40%;
+}
+.Contribute-container img{
+    width: 100%;
+    margin-top: 50px;
+}
+.contribute-text h1{
+    font-size: 30px;
+    font-weight: bold;
 }
