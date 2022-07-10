@@ -107,6 +107,29 @@
     margin-top: 33px;
 }
 
+.update-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+.update-container div{
+    text-align: center;
+}
+.update-section-background-color{
+    background-color: antiquewhite;
+    padding: 70px 130px;
+    border-radius: 5px;
+}
+.update-section #input-text{
+    background-color: rgb(211, 204, 204);
+    border: 0px;
+    padding: 10px 10px;
+    margin-right: -6px;
+    border-radius: 5px 0px 0px 5px;
+}
+
 Footer{
     text-align: center;
     padding: 50px 0px;
