@@ -21,6 +21,8 @@
     padding-top: 15px;
     padding: 10px 25px;
     background-color: #FF5959;
+    color: white;
+    font-weight: 700;
     border-radius: 5px;
 }
 .donate-today input{
