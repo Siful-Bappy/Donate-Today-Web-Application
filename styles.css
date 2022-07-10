@@ -16,10 +16,46 @@
     font-weight: bold;
     font-size: 40px;
 }
-.header-center button{
+.button-donate-now{
     border: 0px;
     padding-top: 15px;
     padding: 10px 25px;
     background-color: #FF5959;
+    border-radius: 5px;
+}
+.donate-today input{
+    border: 0px;
+}
+.take-underline{
+    border: 1px dotted rgb(171, 169, 169);
+}
+.donate-today{
+    /* display: flex; */
+    /* display: flex; */
+    /* justify-content: center;
+    align-self: center;
+    background: silver;
+    width: 50%;
+    height: 20%; */
+}
+.donate-today .donate-today-container{
+    /* display: flex; */
+    /* justify-content: center;
+    align-self: center; */
+    font-weight: bold;
+    margin-left: 15rem;
+    padding: 50px 20px;
+    width: 50%;
+    text-align: center;
+    height: 20%; 
+}
+.taka-block-container{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 20px;
+}
+.taka-block-container p{
+    background-color: rgb(233, 231, 231);
+    padding: 25px 5px;
     border-radius: 5px;
 }
